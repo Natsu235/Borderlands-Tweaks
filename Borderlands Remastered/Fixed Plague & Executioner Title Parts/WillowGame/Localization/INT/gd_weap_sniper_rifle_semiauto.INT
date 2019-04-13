@@ -1,0 +1,98 @@
+[A_Weapon.WeaponType_scorpio_weapon WeaponTypeDefinition]
+NoManufacturerName=Generic
+PickupMessage=You got %s
+PickupMessageWithLevel=You got %s (Level %d)
+TypeName=Semi-auto Sniper Rifle
+UseFailureConstraintsMessage=You cannot use this item.
+UseFailureLevelMessage=You must be at least level %d to use this item.
+
+[Body.body5 WeaponPartDefinition]
+PartName="PPZ"
+
+[A_Weapon.WeaponType_sniper_rifle_semiauto:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Critical Hit Damage"
+
+[Barrel.barrel1_Dahl_Penetrator WeaponPartDefinition]
+PartName="Penetrator"
+
+[Prefix.Prefix_Acc1_Brisk WeaponNamePartDefinition]
+PartName="Brisk"
+
+[acc.acc3_SandS_Orion_Shock WeaponPartDefinition]
+PartName="Orion"
+
+[acc.acc2_Explosive_Torgue_Cobra WeaponPartDefinition]
+PartName="Explosive"
+
+[Title.Title_Tech1_Wrath WeaponNamePartDefinition]
+PartName="Wrath"
+
+[Title.Title_Damage1_Driver WeaponNamePartDefinition]
+PartName="Thunder"
+
+[Prefix.Prefix_Acc4_Deep WeaponNamePartDefinition]
+PartName="Deep"
+
+[mag.mag5_Hyperion_Executioner WeaponPartDefinition]
+PartName="Executioner"
+
+[Prefix.Prefix_reload1_Vicious WeaponNamePartDefinition]
+PartName="Vicious"
+
+[mag.mag5_Hyperion_Executioner:AttributePresentationDefinition_0 AttributePresentationDefinition]
+Description="Burst Fire while zoomed."
+
+[Title.TitleM_Hyperion1_Executioner WeaponNamePartDefinition]
+PartName="Executioner"
+
+[Title.Title_Accuracy1_Lance WeaponNamePartDefinition]
+PartName="Lance"
+
+[Title.TitleU_Retail_Rider WeaponNamePartDefinition]
+PartName="Rider"
+
+[Title.TitleU_Retail_Rider:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="Careful... you might put someone's eye out."
+
+[UniqueParts.Ryder_Material WeaponPartDefinition]
+PartName="D"
+
+[Body.body2 WeaponPartDefinition]
+PartName="LB"
+
+[Title.TitleM_Dahl1_Penetrator WeaponNamePartDefinition]
+PartName="Penetrator"
+
+[Title.TitleM_SandS1_Orion:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="A hunter lives among the stars..."
+
+[Title.TitleM_Dahl1_Penetrator:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="Sniper Killer... Qu'est que c'est"
+
+[Title.TitleM_SandS1_Orion WeaponNamePartDefinition]
+PartName="Orion"
+
+[A_Weapon.WeaponType_sniper_rifle_semiauto WeaponTypeDefinition]
+TypeName="Semi-auto Sniper Rifle"
+
+[Prefix.Prefix_Acc5_Sober WeaponNamePartDefinition]
+PartName="Sober"
+
+[UniqueParts.ReaversEdge_Material WeaponPartDefinition]
+PartName="D"
+
+[Title.TitleM_Hyperion1_Executioner:AttributePresentationDefinition_0 AttributePresentationDefinition]
+NoConstraintText="BAM BAM BAM BAM BAM!"
+
+[Title.TitleU_Reaver_ReaversEdge WeaponNamePartDefinition]
+PartName="Reaver's Edge"
+
+[Title.TitleU_Reaver_ReaversEdge:AttributePresentationDefinition_6 AttributePresentationDefinition]
+NoConstraintText="The cutting edge"
+
+[Title.TitleM_Torgue1_Cobra:AttributePresentationDefinition_8 AttributePresentationDefinition]
+NoConstraintText="I LIKE IT!"
+
+[Title.TitleM_Torgue1_Cobra WeaponNamePartDefinition]
+PartName="Cobra"
+

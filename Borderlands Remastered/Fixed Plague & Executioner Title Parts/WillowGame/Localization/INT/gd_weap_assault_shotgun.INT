@@ -1,0 +1,93 @@
+[acc.acc5_Vladof_Hammer WeaponPartDefinition]
+PartName="Explosive"
+
+[Prefix.Prefix_Quality2_Lethal WeaponNamePartDefinition]
+PartName="Lethal"
+
+[Title.TitleM_SandS1_Crux WeaponNamePartDefinition]
+PartName="Crux"
+
+[Title.TitleM_SandS1_Crux:AttributePresentationDefinition_17 AttributePresentationDefinition]
+NoConstraintText="Cross their heart, hope they die."
+
+[Title.TitleM_Hyperion1_Butcher WeaponNamePartDefinition]
+PartName="Butcher"
+
+[Title.TitleM_Vladof1_Hammer WeaponNamePartDefinition]
+PartName="Hammer"
+
+[Prefix.Prefix_Acc1_Spiked WeaponNamePartDefinition]
+PartName="Spiked"
+
+[Prefix.Prefix_Quality3_Fatal WeaponNamePartDefinition]
+PartName="Fatal"
+
+[Grip.grip2 WeaponPartDefinition]
+PartName=Dahl
+
+[acc.acc4_Painful WeaponPartDefinition]
+PartName="Painful"
+
+[Title.TitleM_Vladof1_Hammer:AttributePresentationDefinition_12 AttributePresentationDefinition]
+NoConstraintText="Drop the Hammer!"
+
+[Title.TitleM_Maliwan1_Plague WeaponNamePartDefinition]
+PartName="Plague"
+
+[Title.TitleM_Maliwan1_Plague:AttributePresentationDefinition_17 AttributePresentationDefinition]
+NoConstraintText="Bring out your Dead"
+
+[Prefix.Prefix_Acc2_Raging WeaponNamePartDefinition]
+PartName="Raging"
+
+[acc.acc2_Raging WeaponPartDefinition]
+PartName="Raging"
+
+[Barrel.barrel4_Hyperion_Butcher WeaponPartDefinition]
+PartName="Butcher"
+
+[acc.acc3_Maliwan_Corrosive_Plague WeaponPartDefinition]
+PartName="Plague"
+
+[Prefix.Prefix__Assault WeaponNamePartDefinition]
+PartName="Combat"
+
+[Stock.stock_none WeaponPartDefinition]
+PartName=
+
+[Stock.stock1 WeaponPartDefinition]
+PartName=
+
+[Stock.stock2 WeaponPartDefinition]
+PartName=
+
+[Stock.stock3 WeaponPartDefinition]
+PartName=
+
+[Title.Title_SandS1_Crux WeaponNamePartDefinition]
+PartName=Crux
+
+[Title.TitleM_Hyperion1_Butcher:AttributePresentationDefinition_17 AttributePresentationDefinition]
+NoConstraintText="Ahhh... Fresh meat!"
+
+[Title.Title_Spread_Death WeaponNamePartDefinition]
+PartName="Death"
+
+[Prefix.Prefix_Acc4_Painful WeaponNamePartDefinition]
+PartName="Painful"
+
+[Title.Title_Damage1_Brute WeaponNamePartDefinition]
+PartName="Brute"
+
+[Prefix.Prefix_Quality1_Grievous WeaponNamePartDefinition]
+PartName="Grievous"
+
+[Prefix.Prefix_Reload1_Angry WeaponNamePartDefinition]
+PartName="Angry"
+
+[A_Weapon.WeaponType_assault_shotgun WeaponTypeDefinition]
+TypeName="Assault Shotgun"
+
+[Title.Title_HighSpread1_Sweeper WeaponNamePartDefinition]
+PartName="Sweeper"
+
