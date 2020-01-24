@@ -1,5 +1,5 @@
 # Fixed Plague & Executioner Title Parts
-Fix the names of the "Plague" & "Executioner" Title Parts.
+Fix the names of the *Plague* & *Executioner* Title Parts.
 
 Location (English):
 ```
